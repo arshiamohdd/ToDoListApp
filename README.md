@@ -36,7 +36,6 @@ This project was created to:
    ```sh
    git clone git@github.com:arshiamohdd/ToDoListApp.git
     ```
-
 2. Navigate to the project folder:
     ```sh
 cd To-do-App
@@ -60,6 +59,6 @@ If you would like to contribute:
 
 This project is licensed under the MIT License.
 
-**Copyright (c) 2025 Arshia Mohammed**
+Copyright (c) 2025 Arshia Mohammed
 
 

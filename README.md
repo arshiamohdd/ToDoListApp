@@ -35,15 +35,15 @@ This project was created to:
 1. Clone the repository:
    ```sh
    git clone git@github.com:arshiamohdd/ToDoListApp.git
-    ```
+   ```
 2. Navigate to the project folder:
     ```sh
-cd To-do-App
+    cd To-do-App
     ```
 3. Compile and run the Java file:
     ```sh
-javac ToDoListApp.java 
-java ToDoListApp
+    javac ToDoListApp.java 
+    java ToDoListApp
      ```
 ## Project Demo
 ![To-Do List App Screenshot](images/todolist.png)
